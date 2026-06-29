@@ -1,4 +1,4 @@
-# PulseMailer — Full-Stack Messaging Web Application
+# PulseMailer - Full-Stack Messaging Web Application
 
 A production-ready, mini email system built with Flask + SQLite.
 
